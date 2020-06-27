@@ -1,3 +1,2 @@
 # hellow-world
-first_repository
-This is my first expirience for Github
+This is my first and experimental reposiory
