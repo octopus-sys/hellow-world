@@ -1,2 +1,2 @@
 # hellow-world
-first_repository
+This is my first and experimental reposiory
